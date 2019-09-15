@@ -1,0 +1,10 @@
+C:\Users\matth\source\repos\BasicLogin\BasicLogin\bin\Debug\BasicLogin.exe.config
+C:\Users\matth\source\repos\BasicLogin\BasicLogin\bin\Debug\BasicLogin.exe
+C:\Users\matth\source\repos\BasicLogin\BasicLogin\bin\Debug\BasicLogin.pdb
+C:\Users\matth\source\repos\BasicLogin\BasicLogin\obj\Debug\BasicLogin.csprojAssemblyReference.cache
+C:\Users\matth\source\repos\BasicLogin\BasicLogin\obj\Debug\BasicLogin.Form1.resources
+C:\Users\matth\source\repos\BasicLogin\BasicLogin\obj\Debug\BasicLogin.Properties.Resources.resources
+C:\Users\matth\source\repos\BasicLogin\BasicLogin\obj\Debug\BasicLogin.csproj.GenerateResource.cache
+C:\Users\matth\source\repos\BasicLogin\BasicLogin\obj\Debug\BasicLogin.csproj.CoreCompileInputs.cache
+C:\Users\matth\source\repos\BasicLogin\BasicLogin\obj\Debug\BasicLogin.exe
+C:\Users\matth\source\repos\BasicLogin\BasicLogin\obj\Debug\BasicLogin.pdb
